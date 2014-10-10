@@ -62,8 +62,8 @@ body
 <div class="links">
 	<h1>Project Links</h1>
 	<h2>P2</h2>
-		<b>Digital Ocean: (Future Link) <br>
-		Github: (Future Link)</b>
+		<b>Digital Ocean: <a href="http://jameywilliamson.me/p2/"> Web address for p2</a> <br>
+		Github: <a href="https://github.com/jameywilliamson/p2"> Github link </a></b>
 		
 	<h2>P3</h2>
 		<b>Digital Ocean: (Future Link) <br>
