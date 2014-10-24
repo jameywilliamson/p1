@@ -66,8 +66,8 @@ body
 		Github: <a href="https://github.com/jameywilliamson/p2"> Github link </a></b>
 		
 	<h2>P3</h2>
-		<b>Digital Ocean: (Future Link) <br>
-		Github: (Future Link)</b>
+		<b>Digital Ocean: <a href="http://p3.jameywilliamson.me/"> Web link for p3</a> <br>
+		Github: <a href="https://github.com/jameywilliamson/p3"> Github link </a></b>
 		
 	<h2>P4</h2>
 		<b>Digital Ocean: (Future Link) <br>
